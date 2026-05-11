@@ -1,0 +1,12 @@
+{
+    "owner": {
+        "username": "aominehayato",
+        "email": "aominehayato@outlook.jp"
+    },
+    "record": {
+        "NS": [
+            "ns1.cloudflare.com",
+            "ns2.cloudflare.com"
+        ]
+    }
+}
